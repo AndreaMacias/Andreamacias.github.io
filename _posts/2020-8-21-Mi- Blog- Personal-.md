@@ -18,4 +18,4 @@ Cuando cumpli los 4 años de edad, ingrese a la escuela a preescolar, y me adapt
 
 - Tambien me intereso y llamo mucho la atención como se maneja y ejecuta el programa pseint, que es lo que se puede realizar, como automaticamente nos da el diagrama de flujo, etc.
 
--Me interesa aprender todos los diferentes tipos de lenguajes de programacion que hay, ya que seria muy importante saberlos manejarlos bien cada uno.
+- Me interesa aprender todos los diferentes tipos de lenguajes de programacion que hay, ya que seria muy importante saberlos manejarlos bien cada uno.
